@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icon/black.png</file>
+        <file>icon/redo.png</file>
+        <file>icon/refresh.png</file>
+        <file>icon/undo.png</file>
+        <file>icon/upload.png</file>
+        <file>icon/flip_poziom.png</file>
+        <file>icon/flip_pion.png</file>
+        <file>icon/minus.png</file>
+        <file>icon/plus.png</file>
+        <file>icon/save.png</file>
+        <file>icon/close.png</file>
+        <file>icon/zoom.png</file>
+    </qresource>
+</RCC>
